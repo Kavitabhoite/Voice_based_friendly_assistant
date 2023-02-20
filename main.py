@@ -36,11 +36,11 @@ def listen():
             speak(str)
 
 
-unm = "kavitabhoite786@gmail.com"                                    #login credentials of our emial id
-pwd = "ypiqtnzatosokfcy"
+unm = "**************@gmail.com"                                    #login credentials of our emial id
+pwd = "****************"
 
 def sendmail():                                                          #function to send email
-    rec = "kavibhoite1106@gmail.com"
+    rec = "****************8@gmail.com"
 
     str = "Please speak the body of the message"
     speak(str)
